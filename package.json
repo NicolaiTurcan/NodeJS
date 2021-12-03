@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NicolaiTurcan/NodeJS/issues"
   },
-  "homepage": "https://github.com/NicolaiTurcan/NodeJS#readme"
+  "homepage": "https://github.com/NicolaiTurcan/NodeJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
