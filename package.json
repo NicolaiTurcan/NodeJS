@@ -4,7 +4,8 @@
   "description": "Learning NodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/NicolaiTurcan/NodeJS/issues"
   },
-  "homepage": "https://github.com/NicolaiTurcan/NodeJS#readme"
+  "homepage": "https://github.com/NicolaiTurcan/NodeJS#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "yargs": "^17.3.0"
+  }
 }
